@@ -4,7 +4,7 @@ A lightweight Pomodoro Timer app built using **Vanilla JavaScript**, HTML, and C
 
 ## 🚀 Live Demo
 
-👉 **[Access the app here]([https://your-deployment-url.com](https://pomodoro-timer-vanilla-js.vercel.app/))**  
+👉 **[Access the app here](https://pomodoro-timer-vanilla-js.vercel.app/)**  
 _(Replace the above link with your actual deployed URL)_
 
 ---
@@ -23,7 +23,7 @@ _(Replace the above link with your actual deployed URL)_
 ## 📌 How to Use
 
 1. **Open the App**  
-   Visit the [Live Demo]([https://your-deployment-url.com](https://pomodoro-timer-vanilla-js.vercel.app/)) in your browser.
+   Visit the [Live Demo](https://pomodoro-timer-vanilla-js.vercel.app/) in your browser.
 
 2. **Set Work & Break Time**  
    - Use the input fields to enter desired work and break durations (in minutes).
