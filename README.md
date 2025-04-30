@@ -5,7 +5,6 @@ A lightweight Pomodoro Timer app built using **Vanilla JavaScript**, HTML, and C
 ## 🚀 Live Demo
 
 👉 **[Access the app here](https://pomodoro-timer-vanilla-js.vercel.app/)**  
-_(Replace the above link with your actual deployed URL)_
 
 ---
 
